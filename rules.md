@@ -1,3 +1,5 @@
+**_These rules were made for Savita-Gaming, you may choose to use these rules for your jailbreak server._**
+
 _These rules are to be followed without exception, you are not allowed to make loop hole in our rules._
 
 **Terms**
