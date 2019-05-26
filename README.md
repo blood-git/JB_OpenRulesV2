@@ -72,3 +72,7 @@ _These rules are to be followed without exception, you are not allowed to make l
 - Lava Day & Out of Cell rebel day cannot be done as an LR, or for more than a minute per round.
 - Warden’s orders become irrelevant once a Red wins LR. The LR Receiver can give orders to Blus for the rest of the round as their DR.
 - Blus not following the LR while warden is not locked must suicide or will be slain, except Last Guards enforcing Last Guard rule, as they must enforce it.
+
+**Banned Minigames**
+- Shoot or Don't shoot (Any variation of this game is also banned)
+- Dodge The Rocket (Any variation of this game is also banned)
